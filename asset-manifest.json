@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ranker/static/css/main.3f3b3a54.css",
-    "main.js": "/ranker/static/js/main.f83445c0.js",
+    "main.css": "/ranker/static/css/main.0b7803d0.css",
+    "main.js": "/ranker/static/js/main.a1f9e494.js",
     "static/js/787.dd9bd1a9.chunk.js": "/ranker/static/js/787.dd9bd1a9.chunk.js",
+    "static/media/Formula1-Regular.ttf": "/ranker/static/media/Formula1-Regular.0f4e3d54644717199c6f.ttf",
     "index.html": "/ranker/index.html",
-    "main.3f3b3a54.css.map": "/ranker/static/css/main.3f3b3a54.css.map",
-    "main.f83445c0.js.map": "/ranker/static/js/main.f83445c0.js.map",
+    "main.0b7803d0.css.map": "/ranker/static/css/main.0b7803d0.css.map",
+    "main.a1f9e494.js.map": "/ranker/static/js/main.a1f9e494.js.map",
     "787.dd9bd1a9.chunk.js.map": "/ranker/static/js/787.dd9bd1a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f3b3a54.css",
-    "static/js/main.f83445c0.js"
+    "static/css/main.0b7803d0.css",
+    "static/js/main.a1f9e494.js"
   ]
 }
